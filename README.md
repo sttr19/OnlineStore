@@ -1,15 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# OnlineStore
+The Online Store Application (SPA).  
+**Link on site: [OnlineStore](https://sttr19.github.io/OnlineStore/)**
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
